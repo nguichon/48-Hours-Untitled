@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/48-hours-untitled/!svn/ver/54/test/data/sprites
+END
+player.sprite
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/48-hours-untitled/!svn/ver/54/test/data/sprites/player.sprite
+END
+test.sprite
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/48-hours-untitled/!svn/ver/54/test/data/sprites/test.sprite
+END
+invalid.sprite
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/48-hours-untitled/!svn/ver/54/test/data/sprites/invalid.sprite
+END
